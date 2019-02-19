@@ -6,5 +6,6 @@ public class FirstClass {
 		System.out.println("Fuck the hell world!");
 
 		System.out.println("main fuck!");
+		System.out.println("qz: fuck!");
 	}
 }
